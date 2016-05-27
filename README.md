@@ -1,5 +1,8 @@
-# botnet-PTRMissing
+# [Botnet PTR Record Missing]
+### [PTRMssing]
+#### [Updated every 2~3 hours]
 
-#Symptoms
+# [Counting 3674 IPs]
 
-PTR Missing 99,99999% SPAM
+# [Symptoms] 
+###   [PTR missing] [PTRmissing]
